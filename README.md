@@ -42,12 +42,12 @@
 
 <div align="center">
 
-# 🔒 Stormbackend
+# 🔒 AI-generative-in-python
 
 A scalable backend application built with Node.js, Express.js, and MongoDB, providing secure REST APIs, authentication, and efficient server-side functionality.
 <br>
 
-<a href="https://github.com/Kokila-chandrakar/stormbackend">
+<a href="https://github.com/Kokila-chandrakar/AI-generative-in-python">
   <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
@@ -77,8 +77,8 @@ AI-powered smart learning platform with modern UI, Smart Classroom, and Exam Mod
 </table>
 
 
-### [Stormbackend](https://github.com/Kokila-chandrakar/stormbackend)
-`Node.js • Express.js • MongoDB` — A scalable backend application with authentication, secure REST APIs, middleware support, and MongoDB integration. Built to explore backend architecture, API security, and real-world server development.
+### [AI-generative-in-python](https://github.com/Kokila-chandrakar/AI-generative-in-python)
+`Python • SpeechRecognition • pyttsx3` — A Python-based AI Voice Assistant that can recognize voice commands, respond using text-to-speech, open websites, play music, and answer basic questions. Built to explore voice automation, AI assistant logic, and Python-based system interaction.
 
 ### [AeroVision](https://github.com/Kokila-chandrakar/AeroVision)
 `React • TypeScript • Vite` — An AI-powered smart learning platform with a futuristic UI, featuring Smart Classroom and Exam Mode for interactive digital learning. Built to combine modern frontend development with intelligent educational experiences.
@@ -94,16 +94,19 @@ I've also shipped fast under pressure — built projects using **React**, **PHP*
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![AI/ML](https://img.shields.io/badge/AI%2FML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-00599C?style=flat-square&logo=codeforces&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Core:** Python · C · C++ · Java  
-**Security:** Network analysis · Encryption · Basic IDS/IPS concepts · Linux  
-**Also know:** JavaScript · React · PHP · MySQL · Git  
-**Exploring:** Malware analysis · CTF challenges · Reverse engineering basics
+**Core:** Python · C · C++ · Java · Data Structures & Algorithms  
+**AI/ML:** Machine Learning · Data Analysis · Model Training · NumPy · Pandas  
+**Development:** JavaScript · React · PHP · MySQL · Git  
+**Tools & Platforms:** Linux · GitHub · VS Code  
+**Exploring:** Deep Learning · Computer Vision · Open Source Projects
 
 ---
 
