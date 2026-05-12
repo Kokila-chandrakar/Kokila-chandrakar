@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  I'm a cybersecurity student who builds tools — not just studies concepts.<br/>
-  My focus is on network security, encryption, and systems programming.<br/>
-  I write in Python and TypeScript, and I'm available for <b>remote work and freelance projects</b>.
+  I'm an AIML student passionate about building real-world projects using AI, Machine Learning, and Full Stack Development.<br/>
+  I enjoy solving problems through code, participating in hackathons, and learning new technologies.<br/>
+  I mainly work with Python, C++, React, and MongoDB, and I'm open to internships, collaborations, and freelance opportunities.
 </p>
 
 ---
@@ -107,9 +107,10 @@ I've also shipped fast under pressure — built projects using **React**, **PHP*
 
 ## 🚧 Currently Working On
 
-- Sharpening my skills through CTF (Capture the Flag) challenges
-- Going deeper into network security and protocol analysis
-- Building a portfolio that shows actual security work, not just badge collections
+- Improving my Machine Learning and AI development skills
+- Building full stack and AI-based projects
+- Participating in hackathons and coding competitions
+- Creating projects that solve real-world problems
 
 ---
 
