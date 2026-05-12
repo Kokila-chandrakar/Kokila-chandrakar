@@ -1,14 +1,14 @@
 <!-- Typing Header -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&width=600&lines=Hey%2C+I'm+Kokila+%F0%9F%91%8B;AIML+Student+%7C+Python+%26+C%2B%2B;I+build+tools+that+break+things+(ethically);Open+to+remote+%26+freelance+work" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&width=600&lines=Hey%2C+I'm+Kokila+%F0%9F%91%8B;Artificial Intelligence&Machine Learning+Student+%7C+Python+%26+C%2B%2B;I+build+tools+that+break+things+(ethically);Open+to+internships+%26+freelance+opportunities" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  I'm an AIML student passionate about building real-world projects using AI, Machine Learning, and Full Stack Development.<br/>
-  I enjoy solving problems through code, participating in hackathons, and learning new technologies.<br/>
-  I mainly work with Python, C++, React, and MongoDB, and I'm open to internships, collaborations, and freelance opportunities.
+  I'm an AIML student passionate about AI, Machine Learning, and Full Stack Development.<br/>
+  I build real-world projects using Python, React, and MongoDB.<br/>
+  Open to internships, collaborations, and freelance opportunities.
 </p>
 
 ---
@@ -39,13 +39,12 @@
 
 <div align="center">
 
-# 🔒 AES File Encryption
+# 🔒 Stormbackend
 
-Python-based AES encryption and decryption tool with secure file handling and key management.
-
+A scalable backend application built with Node.js, Express.js, and MongoDB, providing secure REST APIs, authentication, and efficient server-side functionality.
 <br>
 
-<a href="https://github.com/vrxayush/ASE-file-encryption">
+<a href="https://github.com/Kokila-chandrakar/stormbackend">
   <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
@@ -57,13 +56,13 @@ Python-based AES encryption and decryption tool with secure file handling and ke
 
 <div align="center">
 
-# 🌐 Packet Sniffer + IDS
+# 🌐 AeroVision
 
-Custom packet sniffer and intrusion detection system using raw sockets and live traffic analysis.
+AI-powered smart learning platform with modern UI, Smart Classroom, and Exam Mode built using React, TypeScript, and Vite.
 
 <br>
 
-<a href="https://github.com/vrxayush/network-packet-sniffer-ids">
+<a href="https://github.com/Kokila-chandrakar/AeroVision">
   <img src="https://img.shields.io/badge/View%20Project-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF" />
 </a>
 
@@ -75,11 +74,11 @@ Custom packet sniffer and intrusion detection system using raw sockets and live 
 </table>
 
 
-### [AES File Encryption Tool](https://github.com/vrxayush/ASE-file-encryption)
-`Python` — A command-line tool for encrypting and decrypting files using AES. Built because I wanted to understand symmetric encryption at the implementation level, not just the theory. Handles key management, file I/O, and padding correctly.
+### [AES File Encryption Tool](https://github.com/Kokila-chandrakar/stormbackend)
+`Node.js • Express.js • MongoDB` — A scalable backend application with authentication, secure REST APIs, middleware support, and MongoDB integration. Built to explore backend architecture, API security, and real-world server development.
 
-### [Network Packet Sniffer + IDS](https://github.com/vrxayush/network-packet-sniffer-ids)
-`Python` — Captures and inspects live network traffic, then flags suspicious patterns using basic intrusion detection logic. Built on raw sockets — no cheating with Wireshark. This one taught me more about TCP/IP than any textbook.
+### [AeroVision](https://github.com/Kokila-chandrakar/AeroVision)
+`React • TypeScript • Vite` — An AI-powered smart learning platform with a futuristic UI, featuring Smart Classroom and Exam Mode for interactive digital learning. Built to combine modern frontend development with intelligent educational experiences.
 
 ### Hackathon Projects
 I've also shipped fast under pressure — built projects using **React**, **PHP**, **TypeScript**and other stacks during hackathons where the stack is decided 5 minutes in. They're rough, but they work.
@@ -124,7 +123,7 @@ I've also shipped fast under pressure — built projects using **React**, **PHP*
 
 ## 📬 Hire Me / Reach Out
 
-I'm open to **AI Project**, **remote internships**, and **collaborations**.
+I'm open to **AI Project**, **internships**, **hackathon**, and **collaborations**.
 
 If you need someone who can build security tooling, audit small projects, or just write clean Python — let's talk.
 
